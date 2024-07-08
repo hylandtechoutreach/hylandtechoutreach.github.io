@@ -1,5 +1,5 @@
 # Hyland Tech Outreach
-[Hyland Tech Outreach](https://www.hyland.com/resources/events/hy-tech) provides a variety of programs that teach students computer science to support a future where technology skills are essential, while giving employees the opportunity to give back to the community. All programs offered by the team are completely free, and all curriculum is open-source.
+[Hyland Tech Outreach](https://www.hyland.com/resources/events/hy-tech) provides a variety of programs that teach students computer science to support a future where technology skills are essential, while giving employees the opportunity to give back to the community. All programs offered by the team are completely free, and all curriculum is open-source. The curriculum is stored [on GitHub](https://github.com/hylandtechoutreach), and there are additional organizations for [Hy-Tech Club](https://github.com/hytechclub) and [Hy-Tech Camps](https://github.com/hytechcamps).
 
 ## CSTA 2024
 Joseph Maxwell is presenting two sessions on behalf of the Tech Outreach team at CSTA 2024!
